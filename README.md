@@ -26,8 +26,8 @@ https://candelacorradin.github.io/ReactJS-Modulo1-Unidad2/
 No requiere dependencias ni instalación. Basta con abrir el `index.html` en el navegador.
 
 ```bash
-git clone https://github.com/TU-USUARIO/registro-al-evento.git
-cd registro-al-evento
+git clone https://github.com/candelacorradin/ReactJS-Modulo1-Unidad2
+cd ReactJS-Modulo1-Unidad2
 ```
 
 Luego abrí `index.html` con doble clic, o serví la carpeta con cualquier servidor estático (por ejemplo `Live Server` en VS Code).
