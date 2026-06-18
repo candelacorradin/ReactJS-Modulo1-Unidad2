@@ -2,6 +2,12 @@
 
 Proyecto de la **Unidad 2 del módulo "JavaScript esencial"**. Es un formulario que pide nombre y edad, valida con un operador de comparación si la persona es mayor de edad y muestra un mensaje dinámico en pantalla: una pantalla verde de bienvenida si cumple, o una roja si no.
 
+## Demo online
+
+El proyecto se encuentra publicado mediante GitHub Pages:
+
+https://candelacorradin.github.io/ReactJS-Modulo1-Unidad2/
+
 ## Tecnologías
 
 - HTML5
