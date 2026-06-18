@@ -33,6 +33,7 @@ Luego abrí `index.html` con doble clic, o serví la carpeta con cualquier servi
 ├── index.html      # Formulario y título principal
 ├── script.js       # Lógica de validación (variables, operadores, función, DOM, eventos)
 ├── styles.css      # Estilos base y clases dinámicas para los mensajes
+├── screenshots/    # Capturas usadas en el README
 └── README.md
 ```
 
@@ -40,28 +41,22 @@ Luego abrí `index.html` con doble clic, o serví la carpeta con cualquier servi
 
 **Formulario inicial**
 
-![Formulario de registro](formulario.png)
+![Formulario de registro](screenshots/formulario.png)
 
 **Mensaje positivo (mayor de edad)**
 
-![Pantalla de acceso concedido](exito.png)
+![Pantalla de acceso concedido](screenshots/exito.png)
 
 **Mensaje negativo (menor de edad)**
 
-![Pantalla de acceso denegado](error.png)
+![Pantalla de acceso denegado](screenshots/error.png)
 
 ## Créditos
 
-- **Autora:** Candela Corradin
-- **Curso:** JavaScript esencial
+- **Autor:** Candela Corradin Tessa
+- **Curso:** Desarrollo en React JS
 - **Unidad:** Módulo 1 — Unidad 2
 
-## Fuentes y bibliografía
+## Fuentes
 
-- Flanagan, D. *JavaScript: The Definitive Guide*. 7.ª ed. O'Reilly Media; 2020.
-- Freeman, E. y Robson, E. *Head First JavaScript Programming*. 1.ª ed. O'Reilly Media; 2014.
-- MDN Web Docs — [`Document.querySelector()`](https://developer.mozilla.org/en-US/docs/Web/API/Document/querySelector)
-- MDN Web Docs — [`EventTarget.addEventListener()`](https://developer.mozilla.org/en-US/docs/Web/API/EventTarget/addEventListener)
-- MDN Web Docs — [`Event.preventDefault()`](https://developer.mozilla.org/en-US/docs/Web/API/Event/preventDefault)
-
-La tipografía *Afacad Flux* se carga desde Google Fonts.
+- Google Fonts: https://fonts.google.com/
