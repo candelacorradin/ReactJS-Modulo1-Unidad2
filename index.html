@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Modulo 2</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div id="form-modal" class="modal">
+        <div class="modal-content">
+            <h1 id="form-title">Registro al evento</h1>
+            <form id="entry-form">
+                <label for="nombre">Nombre:</label>
+                <input type="text" id="nombre" name="nombre">
+
+                <label for="edad">Edad:</label>
+                <input type="number" id="edad" name="edad">
+
+                <button type="submit">Enviar</button>
+            </form>
+        </div>
+    </div>
+
+    <section id="success-screen" class="screen success hidden">
+        <h1 id="success-text"></h1>
+    </section>
+
+    <section id="error-screen" class="screen error hidden">
+        <h1 id="error-text"></h1>
+    </section>
+
+    <script src="script.js"></script>
+</body>
+</html>
